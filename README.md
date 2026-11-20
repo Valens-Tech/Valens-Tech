@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Valens Muragijimana
 
-<!--
-**Valens-Tech/Valens-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electronics and Telecommunication Student
 
-Here are some ideas to get you started:
+### My Skills
+- Python Programming
+- Artificial Intelligence
+- Machine Learning
+- Arduino
+- Embedded Systems
+- IoT and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+- Smart Security System
+- Python Electrical Calculator
+- IoT Home Automation
+- Machine Learning Projects
+
+### My Goal
+To become a professional Electronics and Telecommunication Engineer.
+
+Thanks for visiting my GitHub!
